@@ -1,5 +1,4 @@
 # Site settings
-# baseURL = "https://arturoho.com"
 relativeURLs = true 
 languageCode = "en-US"
 title = "Arturo Ho - Washington DC Metro Artist"
