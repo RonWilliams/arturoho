@@ -1,5 +1,4 @@
 # Site settings
-relativeURLs = true 
 languageCode = "en-US"
 title = "Arturo Ho - Washington DC Metro Artist"
 theme = "hugo-split-theme"
