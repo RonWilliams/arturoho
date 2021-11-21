@@ -31,7 +31,7 @@ copyright = "&copy;2021 Arturo Ho"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/background-arturo.jpg"
       position = "center center"
 
     # Video
