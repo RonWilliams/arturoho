@@ -14,13 +14,18 @@ googleAnalytics = ""
 # Copyright
 copyright = "&copy; Arturo Ho"
 
-[params]
 
+
+[params]
   # Metadata for search engines and social sharing
   author = "Arturo Ho"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
+  
+  # Custom CSS
+  [params.custom.css]
+    enable = true
 
   # Favicon
   favicon = "favicon.ico"
