@@ -1,6 +1,6 @@
 +++
 title = "Arturo Ho"
-tagline = "Artist. Inspiration. Community."
+tagline = "Artist. Commissions. Fine Art."
 +++
 
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "luctus-urna.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "ipsum-in.md" >}}) malesuada congue, [purus sem]({{< ref "purus-sem.md" >}}) ullamcorper massa, sit amet lacinia nibh enim sed massa.
+In his decades-spanning practice, Arturo Ho brings to life visual artwork inspired by nature, inspirational figures, and life around us. He creates distinctly styled artwork from his home in the Washington, DC area. 
