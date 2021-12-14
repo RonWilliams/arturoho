@@ -19,9 +19,9 @@ copyright = "&copy; Arturo Ho"
 [params]
   # Metadata for search engines and social sharing
   author = "Arturo Ho"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  description = "Arturo Ho brings to life visual artwork inspired by nature, inspirational figures, and life around us."
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  # twitterHandle = "onepagelove"
   
   # Custom CSS
   [params.custom.css]
