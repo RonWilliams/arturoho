@@ -56,6 +56,9 @@ copyright = "&copy; Arturo Ho"
       [[params.links.list1.link]]
         text = "Email"
         url = "mailto:arturohoartist@gmail.com"
+      [[params.links.list1.link]]
+        text = "Booking Info"
+        url = "mailto:info@brightcardinalcreative.com"
 
 
 
