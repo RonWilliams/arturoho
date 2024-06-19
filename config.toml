@@ -1,6 +1,6 @@
 # Site settings
 languageCode = "en-US"
-title = "Arturo Ho - Washington DC Metro Artist"
+title = "Arturo Ho - DMV / Washington DC Artist"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
